@@ -97,6 +97,8 @@ PC-ADM> ping 192.168.20.10
 Reply from 192.168.20.10: bytes=32 time<1ms TTL=255
 
 PC-VISITANTES> ping 192.168.10.10
+
+```
 Request timed out.
 
 ---
