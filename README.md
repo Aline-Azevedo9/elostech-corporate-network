@@ -28,9 +28,9 @@ Construir uma rede corporativa organizada e segura, separando os setores por VLA
 ---
 
 ## 🗺️ Topologia
-
-<img src="imgs/topologia.png" width="800">
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aline-Azevedo9/elostech-corporate-network/main/imgs/topologia.png" width="700">
+</p>
 ---
 
 ## 📌 Implementação (Resumo)
