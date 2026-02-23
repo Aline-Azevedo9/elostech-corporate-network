@@ -62,6 +62,7 @@ Construir uma rede corporativa organizada e segura, separando os setores por VLA
 ## 🧪 Evidências (Comandos e Resultados)
 
 ### VLANs configuradas
+```bash
 Switch# show vlan brief
 
 VLAN Name                             Status    Ports
