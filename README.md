@@ -29,7 +29,7 @@ Construir uma rede corporativa organizada e segura, separando os setores por VLA
 
 ## 🗺️ Topologia
 
-![Topologia](imgs/topologia.png)
+<img src="imgs/topologia.png" width="800">
 
 ---
 
